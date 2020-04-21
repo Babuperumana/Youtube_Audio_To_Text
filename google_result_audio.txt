@@ -1,0 +1,405 @@
+Transcript: hi my name is Brett Campbell I'm a stand-up comic in a freelance writer and as you can imagine either of those jobs pays very well so I'm looking for some part-time work here's what I'm bringing to the table excellent spelling grammar and proofreading skills and eye for design detail oriented I'm consistent punctual
+Word: hi
+Start time: 0 seconds 700000000 nanos
+End time: 1 seconds 100000000 nanos
+Word: my
+Start time: 1 seconds 100000000 nanos
+End time: 1 seconds 400000000 nanos
+Word: name
+Start time: 1 seconds 400000000 nanos
+End time: 1 seconds 400000000 nanos
+Word: is
+Start time: 1 seconds 400000000 nanos
+End time: 1 seconds 600000000 nanos
+Word: Brett
+Start time: 1 seconds 600000000 nanos
+End time: 2 seconds 0 nanos
+Word: Campbell
+Start time: 2 seconds 0 nanos
+End time: 2 seconds 200000000 nanos
+Word: I'm
+Start time: 2 seconds 200000000 nanos
+End time: 2 seconds 900000000 nanos
+Word: a
+Start time: 2 seconds 900000000 nanos
+End time: 3 seconds 0 nanos
+Word: stand-up
+Start time: 3 seconds 0 nanos
+End time: 3 seconds 400000000 nanos
+Word: comic
+Start time: 3 seconds 400000000 nanos
+End time: 3 seconds 800000000 nanos
+Word: in
+Start time: 3 seconds 800000000 nanos
+End time: 3 seconds 900000000 nanos
+Word: a
+Start time: 3 seconds 900000000 nanos
+End time: 3 seconds 900000000 nanos
+Word: freelance
+Start time: 3 seconds 900000000 nanos
+End time: 4 seconds 400000000 nanos
+Word: writer
+Start time: 4 seconds 400000000 nanos
+End time: 4 seconds 600000000 nanos
+Word: and
+Start time: 4 seconds 600000000 nanos
+End time: 5 seconds 400000000 nanos
+Word: as
+Start time: 5 seconds 400000000 nanos
+End time: 5 seconds 500000000 nanos
+Word: you
+Start time: 5 seconds 500000000 nanos
+End time: 5 seconds 600000000 nanos
+Word: can
+Start time: 5 seconds 600000000 nanos
+End time: 5 seconds 700000000 nanos
+Word: imagine
+Start time: 5 seconds 700000000 nanos
+End time: 5 seconds 800000000 nanos
+Word: either
+Start time: 5 seconds 800000000 nanos
+End time: 6 seconds 600000000 nanos
+Word: of
+Start time: 6 seconds 600000000 nanos
+End time: 6 seconds 800000000 nanos
+Word: those
+Start time: 6 seconds 800000000 nanos
+End time: 7 seconds 0 nanos
+Word: jobs
+Start time: 7 seconds 0 nanos
+End time: 7 seconds 400000000 nanos
+Word: pays
+Start time: 7 seconds 400000000 nanos
+End time: 7 seconds 800000000 nanos
+Word: very
+Start time: 7 seconds 800000000 nanos
+End time: 8 seconds 0 nanos
+Word: well
+Start time: 8 seconds 0 nanos
+End time: 8 seconds 100000000 nanos
+Word: so
+Start time: 8 seconds 100000000 nanos
+End time: 8 seconds 900000000 nanos
+Word: I'm
+Start time: 8 seconds 900000000 nanos
+End time: 9 seconds 0 nanos
+Word: looking
+Start time: 9 seconds 0 nanos
+End time: 9 seconds 300000000 nanos
+Word: for
+Start time: 9 seconds 300000000 nanos
+End time: 9 seconds 400000000 nanos
+Word: some
+Start time: 9 seconds 400000000 nanos
+End time: 9 seconds 500000000 nanos
+Word: part-time
+Start time: 9 seconds 500000000 nanos
+End time: 9 seconds 900000000 nanos
+Word: work
+Start time: 9 seconds 900000000 nanos
+End time: 10 seconds 200000000 nanos
+Word: here's
+Start time: 10 seconds 200000000 nanos
+End time: 11 seconds 200000000 nanos
+Word: what
+Start time: 11 seconds 200000000 nanos
+End time: 11 seconds 300000000 nanos
+Word: I'm
+Start time: 11 seconds 300000000 nanos
+End time: 11 seconds 500000000 nanos
+Word: bringing
+Start time: 11 seconds 500000000 nanos
+End time: 11 seconds 600000000 nanos
+Word: to
+Start time: 11 seconds 600000000 nanos
+End time: 11 seconds 800000000 nanos
+Word: the
+Start time: 11 seconds 800000000 nanos
+End time: 11 seconds 900000000 nanos
+Word: table
+Start time: 11 seconds 900000000 nanos
+End time: 12 seconds 100000000 nanos
+Word: excellent
+Start time: 12 seconds 100000000 nanos
+End time: 13 seconds 300000000 nanos
+Word: spelling
+Start time: 13 seconds 300000000 nanos
+End time: 13 seconds 800000000 nanos
+Word: grammar
+Start time: 13 seconds 800000000 nanos
+End time: 14 seconds 200000000 nanos
+Word: and
+Start time: 14 seconds 200000000 nanos
+End time: 14 seconds 300000000 nanos
+Word: proofreading
+Start time: 14 seconds 300000000 nanos
+End time: 14 seconds 900000000 nanos
+Word: skills
+Start time: 14 seconds 900000000 nanos
+End time: 15 seconds 100000000 nanos
+Word: and
+Start time: 15 seconds 100000000 nanos
+End time: 16 seconds 0 nanos
+Word: eye
+Start time: 16 seconds 0 nanos
+End time: 16 seconds 100000000 nanos
+Word: for
+Start time: 16 seconds 100000000 nanos
+End time: 16 seconds 400000000 nanos
+Word: design
+Start time: 16 seconds 400000000 nanos
+End time: 16 seconds 500000000 nanos
+Word: detail
+Start time: 16 seconds 500000000 nanos
+End time: 17 seconds 900000000 nanos
+Word: oriented
+Start time: 17 seconds 900000000 nanos
+End time: 18 seconds 200000000 nanos
+Word: I'm
+Start time: 18 seconds 200000000 nanos
+End time: 19 seconds 100000000 nanos
+Word: consistent
+Start time: 19 seconds 100000000 nanos
+End time: 19 seconds 900000000 nanos
+Word: punctual
+Start time: 19 seconds 900000000 nanos
+End time: 20 seconds 900000000 nanos
+Transcript:  I'm good at coming up with nicknames for dogs I'm also fluent in all the Spanish from Pixy stock
+Word: I'm
+Start time: 23 seconds 400000000 nanos
+End time: 23 seconds 800000000 nanos
+Word: good
+Start time: 23 seconds 800000000 nanos
+End time: 24 seconds 0 nanos
+Word: at
+Start time: 24 seconds 0 nanos
+End time: 24 seconds 100000000 nanos
+Word: coming
+Start time: 24 seconds 100000000 nanos
+End time: 24 seconds 300000000 nanos
+Word: up
+Start time: 24 seconds 300000000 nanos
+End time: 24 seconds 300000000 nanos
+Word: with
+Start time: 24 seconds 300000000 nanos
+End time: 24 seconds 600000000 nanos
+Word: nicknames
+Start time: 24 seconds 600000000 nanos
+End time: 24 seconds 900000000 nanos
+Word: for
+Start time: 24 seconds 900000000 nanos
+End time: 25 seconds 300000000 nanos
+Word: dogs
+Start time: 25 seconds 300000000 nanos
+End time: 26 seconds 0 nanos
+Word: I'm
+Start time: 26 seconds 0 nanos
+End time: 26 seconds 700000000 nanos
+Word: also
+Start time: 26 seconds 700000000 nanos
+End time: 26 seconds 900000000 nanos
+Word: fluent
+Start time: 26 seconds 900000000 nanos
+End time: 27 seconds 200000000 nanos
+Word: in
+Start time: 27 seconds 200000000 nanos
+End time: 27 seconds 600000000 nanos
+Word: all
+Start time: 27 seconds 600000000 nanos
+End time: 27 seconds 900000000 nanos
+Word: the
+Start time: 27 seconds 900000000 nanos
+End time: 28 seconds 100000000 nanos
+Word: Spanish
+Start time: 28 seconds 100000000 nanos
+End time: 28 seconds 500000000 nanos
+Word: from
+Start time: 28 seconds 500000000 nanos
+End time: 28 seconds 700000000 nanos
+Word: Pixy
+Start time: 28 seconds 700000000 nanos
+End time: 29 seconds 100000000 nanos
+Word: stock
+Start time: 29 seconds 100000000 nanos
+End time: 29 seconds 500000000 nanos
+Transcript:  are you looking for someone for 10 to 20 hours a week he was decent loyal and hardworking than email me at Brett Hamil at gmail.com and thanks for your time and I'm also selling his hat if you're interested in the Hat email me it's smashed the system 6 6 6 underscore monkey balls at Anarchy. Biz thank you
+Word: are
+Start time: 30 seconds 900000000 nanos
+End time: 31 seconds 200000000 nanos
+Word: you
+Start time: 31 seconds 200000000 nanos
+End time: 31 seconds 300000000 nanos
+Word: looking
+Start time: 31 seconds 300000000 nanos
+End time: 31 seconds 500000000 nanos
+Word: for
+Start time: 31 seconds 500000000 nanos
+End time: 31 seconds 700000000 nanos
+Word: someone
+Start time: 31 seconds 700000000 nanos
+End time: 31 seconds 900000000 nanos
+Word: for
+Start time: 31 seconds 900000000 nanos
+End time: 32 seconds 200000000 nanos
+Word: 10
+Start time: 32 seconds 200000000 nanos
+End time: 32 seconds 400000000 nanos
+Word: to
+Start time: 32 seconds 400000000 nanos
+End time: 32 seconds 500000000 nanos
+Word: 20
+Start time: 32 seconds 500000000 nanos
+End time: 32 seconds 700000000 nanos
+Word: hours
+Start time: 32 seconds 700000000 nanos
+End time: 33 seconds 0 nanos
+Word: a
+Start time: 33 seconds 0 nanos
+End time: 33 seconds 100000000 nanos
+Word: week
+Start time: 33 seconds 100000000 nanos
+End time: 33 seconds 100000000 nanos
+Word: he
+Start time: 33 seconds 100000000 nanos
+End time: 33 seconds 400000000 nanos
+Word: was
+Start time: 33 seconds 400000000 nanos
+End time: 33 seconds 500000000 nanos
+Word: decent
+Start time: 33 seconds 500000000 nanos
+End time: 33 seconds 900000000 nanos
+Word: loyal
+Start time: 33 seconds 900000000 nanos
+End time: 34 seconds 300000000 nanos
+Word: and
+Start time: 34 seconds 300000000 nanos
+End time: 34 seconds 500000000 nanos
+Word: hardworking
+Start time: 34 seconds 500000000 nanos
+End time: 34 seconds 800000000 nanos
+Word: than
+Start time: 34 seconds 800000000 nanos
+End time: 35 seconds 800000000 nanos
+Word: email
+Start time: 35 seconds 800000000 nanos
+End time: 36 seconds 300000000 nanos
+Word: me
+Start time: 36 seconds 300000000 nanos
+End time: 36 seconds 500000000 nanos
+Word: at
+Start time: 36 seconds 500000000 nanos
+End time: 37 seconds 0 nanos
+Word: Brett
+Start time: 37 seconds 0 nanos
+End time: 37 seconds 200000000 nanos
+Word: Hamil
+Start time: 37 seconds 200000000 nanos
+End time: 37 seconds 700000000 nanos
+Word: at
+Start time: 37 seconds 700000000 nanos
+End time: 38 seconds 0 nanos
+Word: gmail.com
+Start time: 38 seconds 0 nanos
+End time: 38 seconds 500000000 nanos
+Word: and
+Start time: 38 seconds 500000000 nanos
+End time: 40 seconds 0 nanos
+Word: thanks
+Start time: 40 seconds 0 nanos
+End time: 40 seconds 300000000 nanos
+Word: for
+Start time: 40 seconds 300000000 nanos
+End time: 40 seconds 400000000 nanos
+Word: your
+Start time: 40 seconds 400000000 nanos
+End time: 40 seconds 500000000 nanos
+Word: time
+Start time: 40 seconds 500000000 nanos
+End time: 40 seconds 700000000 nanos
+Word: and
+Start time: 40 seconds 700000000 nanos
+End time: 41 seconds 900000000 nanos
+Word: I'm
+Start time: 41 seconds 900000000 nanos
+End time: 42 seconds 100000000 nanos
+Word: also
+Start time: 42 seconds 100000000 nanos
+End time: 42 seconds 300000000 nanos
+Word: selling
+Start time: 42 seconds 300000000 nanos
+End time: 42 seconds 700000000 nanos
+Word: his
+Start time: 42 seconds 700000000 nanos
+End time: 43 seconds 0 nanos
+Word: hat
+Start time: 43 seconds 0 nanos
+End time: 43 seconds 300000000 nanos
+Word: if
+Start time: 43 seconds 300000000 nanos
+End time: 44 seconds 100000000 nanos
+Word: you're
+Start time: 44 seconds 100000000 nanos
+End time: 44 seconds 200000000 nanos
+Word: interested
+Start time: 44 seconds 200000000 nanos
+End time: 44 seconds 500000000 nanos
+Word: in
+Start time: 44 seconds 500000000 nanos
+End time: 44 seconds 700000000 nanos
+Word: the
+Start time: 44 seconds 700000000 nanos
+End time: 44 seconds 800000000 nanos
+Word: Hat
+Start time: 44 seconds 800000000 nanos
+End time: 45 seconds 100000000 nanos
+Word: email
+Start time: 45 seconds 100000000 nanos
+End time: 45 seconds 800000000 nanos
+Word: me
+Start time: 45 seconds 800000000 nanos
+End time: 45 seconds 900000000 nanos
+Word: it's
+Start time: 45 seconds 900000000 nanos
+End time: 46 seconds 200000000 nanos
+Word: smashed
+Start time: 46 seconds 200000000 nanos
+End time: 46 seconds 600000000 nanos
+Word: the
+Start time: 46 seconds 600000000 nanos
+End time: 46 seconds 600000000 nanos
+Word: system
+Start time: 46 seconds 600000000 nanos
+End time: 47 seconds 0 nanos
+Word: 6
+Start time: 47 seconds 0 nanos
+End time: 47 seconds 300000000 nanos
+Word: 6
+Start time: 47 seconds 300000000 nanos
+End time: 47 seconds 600000000 nanos
+Word: 6
+Start time: 47 seconds 600000000 nanos
+End time: 47 seconds 800000000 nanos
+Word: underscore
+Start time: 47 seconds 800000000 nanos
+End time: 48 seconds 200000000 nanos
+Word: monkey
+Start time: 48 seconds 200000000 nanos
+End time: 48 seconds 700000000 nanos
+Word: balls
+Start time: 48 seconds 700000000 nanos
+End time: 49 seconds 100000000 nanos
+Word: at
+Start time: 49 seconds 100000000 nanos
+End time: 49 seconds 600000000 nanos
+Word: Anarchy.
+Start time: 49 seconds 600000000 nanos
+End time: 50 seconds 300000000 nanos
+Word: Biz
+Start time: 50 seconds 300000000 nanos
+End time: 50 seconds 700000000 nanos
+Word: thank
+Start time: 50 seconds 700000000 nanos
+End time: 51 seconds 900000000 nanos
+Word: you
+Start time: 51 seconds 900000000 nanos
+End time: 52 seconds 0 nanos
