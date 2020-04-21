@@ -23,6 +23,9 @@ There are only little steps to implement the function we want.
  	Here, you can put any Youtube video uri. 
  
  3. After running `main.py`, you will get a new dir, which contains `audio.flac`, `google_result_audio.txt`, `subtitles.vtt`. Then, you can compare the difference between the video subtitles and the text recognized by google speech to text api.
+ 
+# Example results
+You can have a quick look at the `audio.flac`, `google_result_audio.txt`, `subtitles.vtt` here.
 
 # Suggested video uri
 ```
